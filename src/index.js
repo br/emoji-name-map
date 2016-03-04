@@ -1,5 +1,5 @@
 const emoji = require("emojilib")
-    , mapO = require("map-o")
+    , mapO = require("@br/map-o")
     , iterateObject = require("iterate-object")
     ;
 
