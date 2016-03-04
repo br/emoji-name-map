@@ -19,5 +19,3 @@ iterateObject(nameMap.emoji, (value, name, obj) => !value && delete obj[name] ||
 nameMap.get = function (name) {
     return this.emoji[name];
 };
-
-emoji = null;
