@@ -1,6 +1,6 @@
 const emoji = require("emojilib")
     , mapO = require("@br/map-o")
-    , iterateObject = require("iterate-object")
+    , iterateObject = require("@br/iterate-object")
     ;
 
 const nameMap = module.exports = {};
