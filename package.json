@@ -32,10 +32,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IonicaBizau/emoji-name-map.git"
+    "url": "git+https://github.com/br/emoji-name-map.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/emoji-name-map/issues"
+    "url": "https://github.com/br/emoji-name-map/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/emoji-name-map#readme"
+  "homepage": "https://github.com/br/emoji-name-map#readme"
 }
